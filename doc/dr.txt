@@ -1,0 +1,11 @@
+ex02
+
+?
+
+utiliser .gitignore
+
+resultatTexte.value = resultat;
+resultat: Map<String, int>
+resultatTexte.value: String
+
+Breaking on exception: type '_LinkedHashMap' is not a subtype of type 'String' of 'value'.
